@@ -1,0 +1,93 @@
+1. Networking Basics
+
+    1.1 What is a network?
+
+    1.2 LAN, WAN, MAN, PAN
+
+    1.3 Client-Server vs Peer-to-Peer
+
+    1.4 OSI Model overview
+
+    1.5 TCP/IP Model overview
+
+2. Network Devices
+
+    2.1 Router vs Switch vs Hub
+
+    2.2 Modem, Access Point, Bridge
+
+    2.3 NIC, Patch Panel, Firewall
+
+    2.4 Home network setup
+
+3. IP Addressing
+
+    3.1 IPv4 & IPv6 basics
+
+    3.2 Public vs Private IP
+
+    3.3 Subnetting (CIDR, masks)
+
+    3.4 DHCP & Static IP
+
+4. OSI Model (7 Layers Deep Dive)
+
+    4.1 Layer 1 – Physical
+
+    4.2 Layer 2 – Data Link
+
+    4.3 Layer 3 – Network
+
+    4.4 Layer 4 – Transport
+
+    4.5 Layer 5 to 7 – Session, Presentation, Application
+
+5. TCP/IP Protocols
+
+    5.1 TCP vs UDP
+
+    5.2 IP, ICMP, ARP
+
+    5.3 DNS, DHCP, HTTP/HTTPS
+
+    5.4 FTP, SSH, Telnet
+
+6. Routing & Switching
+
+    6.1 Static vs Dynamic Routing
+
+    6.2 RIP, OSPF, BGP basics
+
+    6.3 VLANs & Trunking
+
+    6.4 STP, Port Security
+
+7. Network Security
+
+    7.1 Common attacks (MITM, DDoS, spoofing)
+
+    7.2 Firewalls & ACLs
+
+    7.3 VPNs, NAT, PAT
+
+    7.4 Secure network design
+
+8. Network Monitoring & Tools
+
+    8.1 Wireshark basics
+
+    8.2 Nmap, Ping, Traceroute
+
+    8.3 SNMP, NetFlow, Syslog
+
+    8.4 Network baselining
+
+9. Advanced Networking
+
+    9.1 IPv6 Deep Dive
+
+    9.2 SDN (Software-Defined Networking)
+
+    9.3 Network Automation (Ansible, Python scripts)
+
+    9.4 Cloud Networking & IoT
