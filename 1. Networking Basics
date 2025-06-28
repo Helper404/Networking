@@ -1,0 +1,31 @@
+.1 What is a Network?
+💡 Definition
+
+A network is a group of two or more computers or devices that are linked together to share resources (like files, printers, or internet) and communicate with each other.
+🔗 Key Concepts
+
+    Node: Any device on the network (PC, phone, printer).
+
+    Link: The connection between nodes (wired or wireless).
+
+    Network Media: The medium used to connect devices (Ethernet cables, Wi-Fi).
+
+📦 Types of Networks
+
+    LAN (Local Area Network): Small area like a house or school.
+
+    WAN (Wide Area Network): Large geographical area, like the internet.
+
+    PAN (Personal Area Network): Short-range (Bluetooth, smartwatch).
+
+    MAN (Metropolitan Area Network): City-wide network.
+
+    CAN (Campus Area Network): Across a university or business campus.
+
+🎓 Real Life Examples
+
+    Home Wi-Fi = LAN
+
+    Mobile network = WAN
+
+    Smartwatch to phone = PAN
